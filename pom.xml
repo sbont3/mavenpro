@@ -103,7 +103,7 @@
         <snapshotRepository>
           <id>snapshots</id>
           <name>Snapshots</name>
-          <url>http://ec2-34-210-121-240.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/releases/</url>
+          <url>http://ec2-34-210-121-240.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
       </profile>
   </profiles>
