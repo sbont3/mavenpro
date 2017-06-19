@@ -95,6 +95,11 @@
           <url>scp://site@svn.sonatype.com/home/site/books/mvnex-book-stage/book-examples/</url>
         </site>
         </distributionManagement>
+        <repository>
+          <id>releases</id>
+          <name>Snapshots</name>
+          <url>http://ec2-34-210-121-240.us-west-2.compute.amazonaws.com:8081/nexus/content/repositories/releases/</url>
+        </repository>
       </profile>
   </profiles>
 
